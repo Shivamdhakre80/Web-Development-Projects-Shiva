@@ -1,2 +1,1 @@
-more than 100 of web develo
-pment projects for the begineers
+More than 100 of web development projects for the begineers
